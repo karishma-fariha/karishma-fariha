@@ -55,3 +55,7 @@ const karishma = {
 - 📧 **Email:** karishmafarihakathi10@gmail.com
 - 💼 **LinkedIn:** [Karishma Fariha](https://www.linkedin.com/in/karishma-fariha/)
 
+
+<p align="center">
+  <i>“Learning by building, improving by doing.”</i>
+</p>
