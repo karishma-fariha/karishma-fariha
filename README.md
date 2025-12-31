@@ -6,14 +6,52 @@
 CSE Student at United International University 🎓
 </em></p>
 
+<h3> A little more about me... </h3>
 
+``` javascript
+const karishma = {
+  pronouns: ["she", "her"],
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  🎓 education: "CSE Student at United International University",
+
+  💼 role: "MERN Stack Developer",
+
+  🛠️ technicalSkills: {
+    frontend: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Tailwind CSS",
+      "DaisyUI",
+      "React Router",
+      "React Icons",
+      "SweetAlert2",
+      "React Toast"
+    ],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+    authentication: ["Firebase Authentication"],
+    programmingLanguages: ["C", "C++", "Java"]
+  },
+
+  ⚙️ tools: ["Git", "GitHub", "VS Code", "Postman"],
+
+  🚀 experience: "Completed 6 months of MERN Stack training and built 2 industrial projects",
+
+  📚 currentlyLearning: [
+    "Advanced React",
+    "Performance Optimization",
+    "Clean Code Practices"
+  ],
+
+  🎯 careerGoal:
+    "To build scalable, user-friendly web applications and grow as a professional MERN Stack developer"
+};
+```
+
+## 🤝 Connect With Me
+- 🌐 **GitHub:** [karishma-fariha](https://github.com/karishma-fariha)
+- 📧 **Email:** karishmafarihakathi10@gmail.com
+- 💼 **LinkedIn:** [Karishma Fariha](https://www.linkedin.com/in/karishma-fariha/)
 
